@@ -1,0 +1,6 @@
+{
+  "name": "Saturated vs Unsaturated Vapor Pressure, Dew Point & Relative Humidity Studio",
+  "description": "Interactive atmospheric thermodynamics studio exploring dynamic phase equilibrium, isothermal vapor compression, dew point, and relative humidity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
